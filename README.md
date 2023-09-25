@@ -566,11 +566,7 @@ La aplicación Alura Discussion Platform permite a los usuarios participar en di
 
 ## Construido con 🛠️
 
-<<<<<<< HEAD
 <div style="display:flex;text-align: center; padding: 30px; gap:20px">
-=======
-<div style="text-align: center; padding: 30px;">
->>>>>>> b60e35d9120f85f9070395fba6debf4ba9debc77
     <img src="/api/src/main/java/com/alura/foro/api/images/java.png" width="100px">
     <img src="/api/src/main/java/com/alura/foro/api/images/springboot.jpg" width="100px">
     <img src="/api/src/main/java/com/alura/foro/api/images/mysql.png" width="100px">

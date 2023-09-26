@@ -456,7 +456,7 @@ De la misma manera, en el proyecto adjunto **resources/attach/Insomnia_foro_alur
 
 <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="/api/src/main/java/com/alura/foro/api/images/foro_icon.png" width="50px">
-    <a style="color: blue; font-size: 20px; display: block; text-align: center;" href="https://gitlab.com/Willydmq/alura-discussion-platform" target="_blank">Alura Discussion Platform</a>
+    <a style="color: blue; font-size: 20px; display: block; text-align: center;" href="https://github.com/germaldonado/alura-discussion-platform" target="_blank">Alura Discussion Platform</a>
 </div>
 
 ## Instalación ⚙️
@@ -493,7 +493,7 @@ La imagen muestra las tablas y columnas de la base de datos. Las filas en amaril
 1. Clona el proyecto: Para descargar el proyecto, puede utilizar el siguiente comando:
 
 ```
-    https://gitlab.com/Willydmq/alura-discussion-platform.git
+    https://github.com/germaldonado/alura-discussion-platform
 
 ```
 
@@ -590,7 +590,7 @@ El proyecto se enfoca en el **desarrollo del backend** del sistema Alura Discuss
 
 ## Autores ✒️
 
-- **William Maldonado** - _Edición #4: Challenge ONE Back End Java + Spring - Implementando una API Rest_ - [Willydmq](https://gitlab.com/Willydmq)
+- **German Maldonado** - _Edición #4: Challenge ONE Back End Java + Spring - Implementando una API Rest_ - [germaldonado](https://github.com/germaldonado)
 
 ## Expresiones de Gratitud
 
@@ -604,6 +604,6 @@ Estoy verdaderamente impresionado por el nivel de dedicación y esfuerzo que han
 
 ---
 
-⌨️ con ❤️ por [William Maldonado](https://gitlab.com/Willydmq) 😊
+⌨️ con ❤️ por [German Maldonado](https://github.com/germaldonado) 😊
 
 ---
